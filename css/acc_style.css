@@ -1,0 +1,39 @@
+header
+{
+/*	width:				100%; */
+	text-align:			center;
+	background-color:	#CCCCCC;
+	font-size: 			20pt;
+}
+
+footer
+{
+	width:				100%;
+	text-align: 		center;
+	background-color:	#BBBBBB;
+}
+
+strong{
+	font-weight: 		bold;
+}
+
+#contenu{
+    padding:            5px;
+    overflow: 			auto;
+}
+
+ul{
+	padding-top: 0px;
+	margin: 0px;
+}
+
+#cnam, #rech, #auto-formation, #veille-techno, #mail , #langues, #cours-cnam, #banque, #loisirs{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border-color: #CCCCCC;
+	border-width: 2px;
+	border-style: solid;
+	padding: 1%;
+	margin-top: 1%;
+}

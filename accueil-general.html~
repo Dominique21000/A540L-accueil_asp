@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Page d'accueil</title>
+		<meta charset="UTF8">
+		<link href="css/acc_style.css" rel="stylesheet" type="text/css">
+		<link href="css/acc_position.css" rel="stylesheet" type="text/css">
+		<link href="bibli/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<header class="col-lg-12">
+		    Page d'accueil de Dominique SAUVIGNON
+		</header>
+        <div id="cnam" class="col-lg-12">
+			Authentification u-strasbourg : <a href="https://wifi-pcap.u-strasbg.fr/" target="_blank">ici</a>
+		</div>
+		<div class="col-lg-6">
+			<div id="rech">
+				Moteurs de recherches : 
+				<ul>
+					<li>Qwant (moteur de recherche qui ne tracke pas) : <a href="https://www.qwant.com" target="_blank" title="Qwant"><img src="logos/qwant.png" width="50" alt="Qwant"></a></li>
+              	<li>Google <a href="http://www.google.fr" target="_blank" title="Google"><img src="logos/google_googleg_lodp.ico" alt="Google" width="30"></a> : <!-- Champ de recherche Google -->
+				
+				<!--<center>-->
+				<FORM method=GET action="http://www.google.fr/search" target="_blank">
+				<!--<TABLE bgcolor="#FFFFFF"><tr><td>-->
+				<!--<A HREF="http://www.google.fr">
+				<IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border="0"
+				ALT="Google" align="absmiddle"></A>-->
+				<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+				<INPUT TYPE=hidden name=hl value=fr>
+				<INPUT type=submit name=btnG VALUE="Recherche Google">
+				<!--</td></tr></TABLE>-->
+				</FORM>
+				<!--</center>-->
+				<!-- Google --> 
+
+              	</li>
+                <li>Google Maps : <a href="https://www.google.fr/maps/@48.6135338,7.7618161,15z" target="_blank"><img src="logos/maps_96in128dp.png" width="50" alt="Google Maps"></a></li>
+            </ul>
+        	</div>
+
+	      <div id="auto-formation">
+            Livres : <a href="https://www.librairiesindependantes.com/" target="_blank">ici</a><br>
+        	Auto-formation ou doc en ligne : <br>
+            <ul>
+            	<li>OpenClassrooms (site d'auto-formation) : <a href="https://openclassrooms.com/dashboard" target="_blank" title="OpenClassrooms"><img src="logos/oc-logo.svg" width="50" alt="OpenClassrooms"></a></li>
+            	<li>jQuery : <a href="http://docs.jquery.com/" target="_blank">la doc</a></li>
+                <li>Python : <a href="https://www.python.org" target="_blank" title="Python.org"><img src="logos/python-logo.png" width="50"></a></li>
+                <li>Django : <a href="http://www.django-fr.org" target="_blank"><img src="logos/django_fr-logo.jpg" width="50"></a></li>
+                <li>PHP (manuel en ligne) : <a href="https://secure.php.net/manual/fr/index.php" target="_blank" title="PHP.net"><img src="logos/php-net_favicon.ico" width="30" alt="PHP.net"></a></li>
+                <li>WordPress (Codex) : <a href="https://developer.wordpress.org/reference/" target="_blank" title="la doc de WordPress (codex)">ici</a></li>
+                <li>SQL : <br> 
+            	<ul>
+            		<li>MySQL (site officiel du SGBD) : <a href="http://dev.mysql.com/doc/refman/5.7/en/sql-syntax.html" target="_blank" title="MySQL"><img src="logos/mySQL_mysql-logo.svg" width="50" alt="MySQL"></a></li>
+            		<li>SQL (un site suisse du le SQL) : <a href="http://sql.sh" target="_blank" title="sql.sh"><img src="logos/sql-sh_sql-sh-logo-245.png" width="50" alt="SQL.sh"></a></li>
+            	</ul>
+            	</li>
+                <li>Java : <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">ici</a></li>                
+                <li>Androïd : <a href="https://developer.android.com/studio/command-line/index.html" target="_blank" title="android">ici</a></li>
+                <li>Processing : <a href="https://www.processing.org/reference/" target="_blank">ici</a> et <a href="http://processing.github.io/processing-javadocs/core/" target="_blank" title="Doc processing">ici</a>
+            </ul>
+        </div>
+
+
+       
+        </div>
+        <div class="col-lg-6">
+        	<div id="cours-cnam">
+                CNAM : <br>
+                <ul>
+                	<li>Google Drive CNAM : <a href="https://drive.google.com/drive/u/0/folders/0B73cw4bySzAPNVo5RFVEN2Jnb1U" target="_blank"><img src="logos/logo-drive.png" alt="Google Drive du CNAM" width="30"></a></li>
+                	<li>Plateforme du CNAM : 
+                		<ul>
+                			<li>lecnam.net : <a href="http://lecnam.net" target="_blank">ici</a></li>
+                	
+		                	<li>gestion du dossier élève : <a href="https://portaileleve.cnam.fr/" target="_blank">ici</a></li>
+                				<li>ressources informatique du CNAM : <a href="http://ressources-informatiques.cnam.fr/" target="_blank">ici</a></li>
+                			<li>scolarité du CNAM : <a href="http://contacts-scolarite.cnam.fr/" target="_blank">ici</a></li>
+                		</ul>
+                	</li>
+                	<li>Cours du CNAM : 
+                		<ul>
+                            <li>RCP104 - Optimisation en informatique : <a href="https://cnam-my.sharepoint.com/personal/julien_briton_lecnam_net/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjulien_briton_lecnam_net%2FDocuments%2FRCP_104_Soir_Strasbourg_2017&FolderCTID=0x0120002892D3228123414ABFBFA8D3DFFEDB5E" target="_blank">ici</a>
+                            </li>
+                    		<li>RXS112 - Sécurité et Réseaux : <a href="https://drive.google.com/drive/folders/0B3WpLOHczx-ybEJEeEFhcVhzOUk?usp=sharing" target="_blank">ici</a>
+                    		</li>
+                    		<li>NSY116 - Multimédia et IHM : <a href="https://sites.google.com/site/jeromesimoninhomepage/" target="_blank" title="Multimédia et IHM">ici</a></li>
+                    		<li>RCP101 - Recherche opérationnelle : <a href="https://cnam-my.sharepoint.com/personal/julien_briton_lecnam_net/_layouts/15/onedrive.aspx?id=%2fpersonal%2fjulien_briton_lecnam_net%2fDocuments%2fRCP_101_Strasbourg_2017&FolderCTID=0x0120002892D3228123414ABFBFA8D3DFFEDB5E" title="RCP101" target="_blank">ici</a></li>
+                            <li>SMB116 - Conception et développement pour systèmes mobiles : <a href="http://lmi92.cnam.fr/smb116/" target="_blank">ici</a></li>
+                            <li>NFE102 - Infrastructure technologique pour le commerce électronique : <a href="https://drive.google.com/drive/folders/1B9Iglgs5w5tQA5SMwqfA7fzsAYQuV5GO" target="_blank">ici</a></li>                    	
+                    	</ul>
+                    </li>
+                </ul>
+            </div>
+           	<div id="mail">
+        	 	<ul>
+        	 		<li>Boite Mail Perso / Pro : <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank" title="boite mail p/pro"><img src="logos/gmail.png" width="50" alt="Boite Mail Pro"></a></li>
+                    <li>Boite mail du cnam : <a href="https://outlook.office365.com/owa/?realm=lecnam.net&modurl=0" target="_blank" title="Boite mail du CNAM">ici<img src="logos/leCnam.png" wdth="100" alt="boite mail du CNAM"></a>    
+                    <li>Mail chez OVH : <a href="https://mail.ovh.net/fr/" target="_blank" title="Mail chez OVH"><img src="logos/roundcube_logo.png" width="50" alt="Mail chez OVH"></a></li>
+
+                    <!-- <li>Mail 1&1 : <a href="https://webmailcluster.1and1.fr" target="_blank" title="Mail 1&1"><img src="logos/1and1_icon57.png" width="50" alt="50"></a><br></li> -->              	
+                	
+                    
+            	</ul>
+        	</div>
+        </div>
+        <footer class="col-lg-12">
+	 	    Dominique SAUVIGNON - 06 85 40 09 36 - dominique21000.pro@gmail.com
+		</footer>
+	</body>	
+</html>

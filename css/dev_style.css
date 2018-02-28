@@ -1,0 +1,14 @@
+header
+{
+/*	width:				100%; */
+	text-align:			center;
+	background-color:	#CCCCCC;
+	font-size: 			20pt;
+}
+
+footer
+{
+	width:				100%;
+	text-align: 		center;
+	background-color:	#BBBBBB;
+}

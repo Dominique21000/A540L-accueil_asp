@@ -1,0 +1,74 @@
+header{
+    position: absolute;
+    text-align: center;
+    font-size: 14pt;
+    font-family: "Verdana";
+    height: 05%;
+    width: 95%;
+    text-decoration: bold;
+    
+    border-style: solid;
+    border-color: grey;
+}
+
+
+
+div{
+    position: absolute;
+    padding: 1%;
+    border-style: solid;   
+    width:40%;   
+}
+
+#perso{
+    left: 2%;
+    top:08%;
+    width:95%;
+    height: 85%;
+    overflow:scroll;
+    border-style: solid;
+    border-color: #CCCCCC;
+}
+
+#veille-techno{
+    left: 2%;
+    top: 5%;
+    border-color: blue;
+    
+}
+
+#langue{
+    left: 2%;
+    top: 45%;
+    
+    border-color:blue;
+    
+}
+
+#mutuelle{
+    left: 50%;
+    top: 40%;  
+    border-color:blue;
+   
+}
+
+#banque{
+    left: 50%;
+    top: 5%;
+    border-color:blue;
+       
+}
+
+#loisir{
+    left: 2%;
+    top: 75%;  
+    border-color:blue;
+   
+}
+
+#emploi{
+    left: 50%;
+    top: 60%;
+    border-color:blue;
+   
+}

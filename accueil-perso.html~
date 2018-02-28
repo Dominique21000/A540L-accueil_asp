@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+	<html lang="fr">
+	<head>
+		<meta charset="utf8">
+		<title>Perso - accueil</title>
+	</head>
+	<body>
+		<header>Perso</header>
+		<div id="veille-techno">
+            <b>Veille techno : </b>
+            <ul>
+                <li>Ubuntu.com : <a ref="https://www.ubuntu.com/" target="_blank">ici</a></li>
+                <li>Canonical : <a href="https://www.canonical.com/" target="_blank">ici</a></li>
+
+                <li>Ubuntu-fr (Le site de la communauté française d'Ubuntu) : <a href="https://doc.ubuntu-fr.org" target="_blank" title="Ubuntu-fr"><img src="logos/ubuntu-fr_logo.png" alt="Doc ubuntu" width="100"></a></li>
+                <li>linuxfr.org (Un site de la commuauté française de Linux) : <a href="http://linuxfr.org" target="_blank" title="Linux-fr"><img src="logos/linux-fr_logo-linuxfr-automne.png" alt="Doc Linux fr" width="50"></a></li>
+                <li>Phoenixjp (un site d'actu numérique) : <a href="http://www.phoenixjp.net/news/fr/" target="_blank" title="phoenixjp"><img src="logos/phoenixjp_pjp_news_logo_trans.gif" width="50" alt="actu numérique"></a></li>
+            </ul>
+        </div>
+
+        <div id="langue">
+        	<b>Langues : </b> 
+            	<ul>
+            		<li>Léo.org : <a href="http://www.leo.org" target="_blank">ici</a></li>
+            		<li>Traducteur PONS : <a href="http://fr.pons.com/traduction?q=nur&l=defr&in=de&lf=de" target="_blank">ici</a></li>
+                	<li>Babbel : <a href="https://home.babbel.com/dashboard" target="_blank" title="Babbel"><img src="logos/babbel.png" width="50" alt="Babbel"></a></li>
+                	<li>Systran traducteur : <a href="http://www.systranet.com/fr/traduction/" target="_blank" title="Systran traduction"><img src="logos/logo-systranet.png" width="50" alt="Systran traduction"></a></li>
+            	</ul>
+ 	       	</div>
+		<div id="banque">
+			<b>Banques</b>
+            <ul>
+                <li>Crédit Agricole : 
+                        <a href="https://www.ca-alsace-vosges.fr/particuliers.html" title="Crédit Agricole Alsace Vosges" target="_blank"><img src="logos/logo_creditagricole_V16.png" width="40" alt="Crédit Agricole"></a>
+                </li>
+                <li>Caisse d'Épargne : <a href="https://www.caisse-epargne.fr/alsace/particuliers" title="Caisse d'Épargne" target="_blank"><img src="logos/CEalsace_logo.png" alt="Caisse d'Épargne" width="100"></a>
+                </li>
+                <li>La Banque Postale : <a href="https://www.labanquepostale.fr/#" target="_blank">ici</a></li>
+                <li>PayPal : <a href="https://www.paypal.com/signin?country.x=FR&locale.x=fr_FR" target="_blank">ici</a></li>
+
+            </ul>
+        </div>		
+		<div id="mutuelle">
+			<b>Mutuelle</b>
+			<ul>
+				<li>AXA Mutuelle : <a href="https://espaceclient.axa.fr/accueil.html#/assurance/complementaire-sante-salaries-2260572400000q98" target="_blank">ici</a></li>
+			</ul>
+		</div>
+		<div id="loisir">
+        	<b>Loisirs : </b>
+            <ul>
+                <li>Facebook : <a href="https://www.facebook.com/" target="_blank" title="Facebook"><img src="logos/Facebook.ico" width="30" alt="Facebook"></a></li>
+                <li>Forum zèbre : <a href="https://zen.raymondehazan.com" target="_blank">ici</a></li>                
+                <li>Whatsapp : <a href="https://web.whatsapp.com/" target="_blank" title="Whatsapp"><img src="logos/whatsApp_logo.png" alt="WhatsApp" width="50"></a>
+
+                <li>OVS Strasbourg : <a href="http://www.onvasortir.com" target="_blank" title="OVS Strasbourg"><img src="logos/logo_ovs.png" alt="OVS Strasbourg" width="30"></a></li>
+                <li>youtube->mp3 : <a href="https://telecharger-youtube-mp3.com/fr" target="_blank">ici</a></li>
+            </ul>
+        </div>
+        <div id="emploi">
+            <b>Emploi</b>
+           	<h3>Recherche d'emploi</h3>
+			<ul>
+				<li>Pôle-emploi : <a href="https://authentification-candidat.pole-emploi.fr/connexion/XUI/#login/&realm=%2Findividu&goto=https%3A%2F%2Fauthentification-candidat.pole-emploi.fr%2Fconnexion%2Foauth2%2Fauthorize%3Fclient_id%3DUSG_PN-de-web_ACB4408808B2D6DC228D6DD2D9C0809590A26FA8B64AC1FBE821C1E0FCD32F66%26nonce%3Dfe57ce9d5dbdffad117a400775f3f20afa721d42b6490576098036702996ae7b%26realm%3D%252Findividu%26redirect_uri%3Dhttps%253A%252F%252Fcandidat.pole-emploi.fr%252Fcandidat%252Fauth%252Fconnect%26response_type%3Dcode%26scope%3Ddocument%2520documentW%2520prestations%2520openid%2520application_USG_PN-de-web_ACB4408808B2D6DC228D6DD2D9C0809590A26FA8B64AC1FBE821C1E0FCD32F66%2520idRci%2520contexteAuthentification%2520suppressionEspace%26state%3Da3f332db5624f661db4aa57cee74ef825b3a7ef3ca82565d70e6a74aa193aa5a" target="_blank">ici</a></li>
+				<li>Monster : <a href="https://login20.monster.fr/Login/SignIn?en_at=1&intcid=swoop_TopNav_Login" target="_blank">ici</a></li>
+			</ul>
+    		<h3>Réseaus sociaux</h3>
+			<ul>
+				<li>Viadéo : <a href="https://www.viadeo.com/" target="_blank">ici</a></li>
+				<li>Linkedin : <a href="https://fr.linkedin.com/" target="_blank">ici</a></li>
+			</ul>
+		</div>
+        <link rel="stylesheet" href="css/accueil_asp-position.css" />				
+	</body>
+	</html>

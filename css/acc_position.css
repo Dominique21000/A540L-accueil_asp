@@ -1,0 +1,80 @@
+/*header{
+	position:	relative;
+	left:		0px;
+	top:		0px;
+	width:		100%;
+	height:		10%;
+}*/
+
+
+footer{
+	position:	absolute;
+	left:		0%;
+	top:		98%;
+	height: 	5%;
+	width:		100%;	
+}
+
+/*
+#contenu{
+	position: 	relative;
+	left:		0%;
+	top:		10%;
+	width:		100%;
+	height:		85%;
+}
+
+#cnam{
+	position: 			relative;
+	margin-left:		0%;
+	margin-top: 		1%;
+	width: 				45%;
+	
+}
+
+#rech{
+	position: 		relative;
+	margin-left:	0%;
+	margin-top:		1%;
+	width: 			45%;
+	
+}
+
+#auto-formation{
+	position: 		relative;
+	margin-left:	0%;
+	margin-top:		1%;
+	width:			40%;
+	float:			left;
+}
+
+#mail{
+	position: 		relative;
+	margin-left:	50%;
+	margin-top:		1%;
+	float:			left;
+}
+
+#langues{
+	position: 		relative;
+	margin-left:	50%;
+	margin-top:		1%;
+	float:			left;
+}
+
+#veille-techno{
+	position: 		relative;
+	margin-left:	50%;
+	margin-top:		55%;
+	float:			left;
+}
+*/
+
+#test{
+	text-align: center;
+
+	border-radius: 5px;
+    border-color: #CCCCCC;
+    border-width: 2px;
+    border-style: solid;
+}
